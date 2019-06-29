@@ -1,4 +1,4 @@
-# American-trip-planner
+# American Trip Planner
 Trip planning application written in React JS.
 
 ## To execute
