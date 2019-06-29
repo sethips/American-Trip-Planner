@@ -4,6 +4,7 @@ Trip planning application written in React JS.
 ## To execute
 
 `npm install`
+
 `npm start`
 
 ## Would you like to support me?
